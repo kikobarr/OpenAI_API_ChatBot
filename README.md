@@ -1,5 +1,5 @@
 # OpenAI API Chatbot
-A Python project that interacts with the OpenAI API to generate chat-based completions, using a Jupyter Notebook.
+A Python project that interacts with the OpenAI API to generate chat-based completions using a Jupyter Notebook.
 
 
 
